@@ -4,6 +4,8 @@ Pick two cities on the Romania map and watch **Breadth-First Search** and **A\**
 
 **Live demo:** https://ai-pathfinder.kimlarp.xyz
 
+[![Romania Map Pathfinder homepage](homepage.png)](https://ai-pathfinder.kimlarp.xyz)
+
 ## What it does
 
 - Choose a start and a goal city on the map
