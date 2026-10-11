@@ -3,6 +3,7 @@
 Pick two cities on the Romania map and watch **Breadth-First Search** and **A\*** find a route side by side.
 
 **Live demo:** https://ai-pathfinder.kimlarp.xyz
+
 **Youtube Video** https://youtu.be/zRVb9VT5XII
 
 [![Romania Map Pathfinder homepage](homepage.png)](https://ai-pathfinder.kimlarp.xyz)
